@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kalid 
 - 👀 I’m interested in Software development 
-- 🌱 I’m currently on my last year in university
+- 🌱 I’m currently in my last year in university
 - 💞️ I’m looking to collaborate on anything related to software development. 
 - 📫 reach me on [kalid.diriye@gmail.com](kalid.diriye@gmail.com)
 
